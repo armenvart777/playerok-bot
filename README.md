@@ -28,3 +28,5 @@ python main.py
 ```
 
 PLAYEROK_TOKEN берётся из cookie `token` после входа на playerok.com.
+
+<!-- 2025-10-29 -->
